@@ -4,19 +4,19 @@ Brushing up on PHP
 
 Build a RESTFUL service using PHP and Laravel to manage "users":
 
-- create a user
-- get all users
-- delete a user
-- update a user
+- create a member
+- get all members
+- delete a member
+- update a member
 
 Build a front end using Vue.js:
 
-- add a new user
-- search for user by username
-- display a user
-- update a user's email and/or name
+- add a new member
+- search for member by username
+- display a member's data
+- update a member's email and/or name
 
-User Model:
+Member Model:
 - username
 - email
 - name
